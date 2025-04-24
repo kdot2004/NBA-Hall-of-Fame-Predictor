@@ -1,0 +1,6 @@
+Make sure to install these libraries if you don't have them:
+streamlit
+numpy
+requests
+beautifulsoup4
+scikit-learn

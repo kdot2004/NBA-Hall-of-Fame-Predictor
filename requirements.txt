@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-scikit-learn
-requests
-beautifulsoup4
-lxml

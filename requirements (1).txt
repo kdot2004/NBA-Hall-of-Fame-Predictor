@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+lxml
+# pickle is part of the Python standard library
+# No need to install via pip
